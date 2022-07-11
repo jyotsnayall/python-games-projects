@@ -1,0 +1,22 @@
+hello welcome to game
+
+options = r,p,s
+
+(possible cases:
+    r=r
+    p=p
+    s=s
+
+    r   p       P WINS
+    r   s       R WINS
+    p   s       S WINS
+
+    these 3 cases ^ reversed
+
+)
+hence total of 7 cases
+
+input of 1
+input of 2
+
+
